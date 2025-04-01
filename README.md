@@ -1,5 +1,5 @@
 # Diff
-make a single frame forze when it's time be set 65535 ms
+make a single frame freeze when it's time be set 65535 ms
 
 # Peachy
 A parser/renderer for Aseprite animations in LÖVE.
